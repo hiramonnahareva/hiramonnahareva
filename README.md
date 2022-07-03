@@ -4,7 +4,7 @@
 ### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]([https://github.com/hiramonnahareva])  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/hiramonnahareva)  
   
 
 - 🌱 I’m currently learning React & node.js   
