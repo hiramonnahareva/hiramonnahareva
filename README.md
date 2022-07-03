@@ -4,7 +4,7 @@
 ### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]([https://github.com/hiramonnahareva](https://github.com/hiramonnahareva))  
+- 🔭 I’m currently working on [Github Profilinator]([https://github.com/hiramonnahareva])  
   
 
 - 🌱 I’m currently learning React & node.js   
@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="100%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
