@@ -35,9 +35,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramonnahareva&show_icons=true)  
- 
 ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonnahareva)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramonnahareva&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hiramonnahareva)  
 
