@@ -21,7 +21,7 @@
 ## <div align="center"> My Skill Set  </div> 
 <table align="center"><tr><td valign="top" width="100%">
 
-<div align="center">  
+<div align="center" style="margin: 10px">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-
+ </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonnahareva)](https://github.com/anuraghazra/github-readme-stats)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramonnahareva&show_icons=true)  
