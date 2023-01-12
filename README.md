@@ -1,4 +1,4 @@
- ## 👋 Hi, There I am Eva
+ ## 👋 Hello, I am Eva
   
 
 ### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div> 
