@@ -1,9 +1,7 @@
  ## 👋 Hi, There I am Eva
   
 
-### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div>  
-
-![I am GitHub Readme Generator's creator](https://blog.runcloud.io/wp-content/uploads/2021/06/what-is-github.png)
+### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div> 
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/hiramonnahareva)  
@@ -34,12 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiramonnahareva)](https://github.com/anuraghazra/github-readme-stats)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiramonnahareva&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hiramonnahareva)  
 
 
 ## Connect with me  
