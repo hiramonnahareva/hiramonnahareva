@@ -1,7 +1,7 @@
  ## 👋 Hello, I am Eva
   
 
-### <div align="center">I'm Eva, a developer 👨‍💻 working remotely  🚀</div> 
+### <div align="center">I'm Eva, a developer 👩‍💻 working remotely  🚀</div> 
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/hiramonnahareva)  
